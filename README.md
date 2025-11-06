@@ -1,6 +1,6 @@
 <!-- 💫 Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#00ffff;">Asma Alawlaqi</span></h1>
-<h3 align="center">💻 AI Engineer | Cybersecurity | Co-founder @ CloudLynq AI</h3>
+<h3 align="center">💻 AI Engineer | Cybersecurity | @ CloudLynq AI</h3>
 <p align="center">🚀 Turning ideas into intelligent systems powered by innovation and security.</p>
 
 ---

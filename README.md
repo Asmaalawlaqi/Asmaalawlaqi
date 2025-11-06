@@ -69,6 +69,14 @@
 
 
 ---
+
+
+### 🌍 Exhibitions & Showcases
+- 🏙️ **GITEX Global (3 Years)** – Showcased AI and robotics innovations with **CloudLynq AI**.  
+- 🚀 **North Star Dubai (Startup Zone)** – Represented **CloudLynq AI** among leading regional startups.
+
+ 
+---
 ### 🏆 Hackathons & Competitions
 
 | Event | Focus | Highlights |

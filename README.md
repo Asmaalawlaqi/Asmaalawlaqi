@@ -18,14 +18,12 @@
 **Programming Languages:**  
 🧩 Python • C • Java • JavaScript • Bash • HTML/CSS  
 
-**Frameworks & Libraries:**  
-⚙️ React • Node.js • Express.js  
 
 **AI & Data Tools:**  
-🤖 TensorFlow • OpenAI API • Scikit-learn • Pandas  
+🤖 • OpenAI API  
 
 **Cybersecurity & Networking:**  
-🛡️ Wireshark • tcpdump  
+🛡️ Wireshark 
 
 **DevOps & Systems:**  
 🐧 Linux • Docker • Git • GitHub Actions  

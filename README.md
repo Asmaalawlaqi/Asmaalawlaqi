@@ -66,7 +66,20 @@
 - Advancing **AI + Cybersecurity** skills  
 - Preparing for advanced **CTF and hackathon** competitions  
 
+
+
 ---
+### 🏆 Hackathons & Competitions
+
+| Event | Focus | Highlights |
+|--------|--------|-------------|
+| **DOH Hackathon (Department of Health – Abu Dhabi)** | AI for Breast Cancer Detection | Rebuilt a medical web app using **JavaScript, Python, HTML, and CSS** that detects breast cancer using AI models. |
+| **MOI Hackathon (Ministry of Interior)** | Cybersecurity & AI | Designed secure systems to enhance data protection and automate threat detection. |
+| **Ru’ya Hackathon – Empowering Youth** | Innovation & Entrepreneurship | Managed and hosted the hackathon using **CloudHub by CloudLynq**, providing participants with project submission and judging systems. |
+| **ADNOC Hackathon (42 Abu Dhabi)** | AI & Automation | Hosted and managed the hackathon on **CloudHub**, supporting automation-focused project collaboration and evaluation. |
+| **42 Abu Dhabi Internal Hackathon** | Robotics & AI | Led a project to design and program two autonomous robots (**Defender** & **Collector**) within one month. |
+| **VEX U Robotics Championship (UAE Nationals)** | Robotics Competition | Represented **42 Abu Dhabi (RAIA Club)**; designed and programmed robots for autonomous gameplay. |
+------------------------
 
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-Asma%20Alawlaqi-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asma-alawlaqi-917293232/)
@@ -74,6 +87,7 @@
 [![Website](https://img.shields.io/badge/-CloudLynq%20AI-black?style=flat&logo=vercel&logoColor=white)](https://cloudlynq.ai)
 
 ---
+
 
 <p align="center">
   ✨ Built with ❤️ by <b>Asma Alawlaqi</b> from the UAE 🇦🇪 <br/>

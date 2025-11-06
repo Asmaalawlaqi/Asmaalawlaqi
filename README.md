@@ -38,6 +38,7 @@
 |----------|-------------|
 | ⚙️ [**Push Swap (C)**](https://github.com/Asmaalawlaqi/push_swap) | Sorting algorithm using limited stack operations |
 | 💻 [**Minishell**](https://github.com/Asmaalawlaqi/minishell) | A 42 Abu Dhabi shell project using pipes, fork & execve |
+| 🤖 [**Robotics Projects**](https://github.com/Asmaalawlaqi/robotics-projects) | Autonomous robots & AI integration — including VEX U and InMoov humanoid systems |
 
 ---
 

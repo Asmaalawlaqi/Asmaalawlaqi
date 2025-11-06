@@ -73,7 +73,7 @@
 
 | Event | Focus | Highlights |
 |--------|--------|-------------|
-| **DOH Hackathon (Department of Health – Abu Dhabi)** | AI for Breast Cancer Detection | Rebuilt a medical web app using **JavaScript, Python, HTML, and CSS** that detects breast cancer using AI models. |
+| **DOH Hackathon (Department of Health – Abu Dhabi)** | AI for Breast Cancer Detection | |
 | **MOI Hackathon (Ministry of Interior)** | Cybersecurity & AI | Designed secure systems to enhance data protection and automate threat detection. |
 | **Ru’ya Hackathon – Empowering Youth** | Innovation & Entrepreneurship | Managed and hosted the hackathon using **CloudHub by CloudLynq**, providing participants with project submission and judging systems. |
 | **ADNOC Hackathon (42 Abu Dhabi)** | AI & Automation | Hosted and managed the hackathon on **CloudHub**, supporting automation-focused project collaboration and evaluation. |
